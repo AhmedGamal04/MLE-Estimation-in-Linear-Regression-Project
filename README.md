@@ -52,7 +52,8 @@ The focus is not just fitting a model, but understanding **how the estimator beh
 └── README.md
 ```
 
-[📄 View Report](./MLE Estimation in Linear Regression Project Report.pdf)
+[📄 View Report](./MLE_Estimation_in_Linear_Regression_Project_Report.pdf)
+
 ---
 
 
